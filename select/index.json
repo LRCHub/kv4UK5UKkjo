@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "逆境スペクトル",
+  "base_artist": "ASCA",
+  "createdAt": "2026-02-24T04:56:23.046996Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆境スペクトル",
+      "artist": "ASCA",
+      "has_synced": false,
+      "path": "select/pl_01_逆境スペクトル_ASCA.txt"
+    }
+  ]
+}
